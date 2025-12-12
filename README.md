@@ -6,7 +6,7 @@
 
 ## 📍 Overview
 
-This is a **Web Application** designed to automate the integration of external payroll deductions into the **Metiri ERP system**.
+This is a **Web Application** designed to automate the integration of external payroll deductions into the **Metiri system**.
 
 It replaces the manual, error-prone process of editing Excel files with a robust **Drag & Drop interface**. The app takes raw payroll data, validates it against the company's accounting codes, and instantly generates the strict TXT format required for the settlement process.
 
@@ -15,7 +15,7 @@ It replaces the manual, error-prone process of editing Excel files with a robust
 ## 🚀 Key Features
 
 - **User-Friendly Interface:** No coding required. Just drag and drop files.
-- **Dynamic Mapping:** Automatically maps deduction names (e.g., "Gym") to ERP codes (e.g., "D_200").
+- **Dynamic Mapping:** Automatically maps deduction names (e.g., "Gym") to Metiri codes (e.g., "D_200").
 - **Data Validation:** Prevents errors by warning the user if a deduction code is missing _before_ generating the file.
 - **Auto-Formatting:** Handles "Ghost Spaces", missing values, and wide-to-long transformation automatically.
 
